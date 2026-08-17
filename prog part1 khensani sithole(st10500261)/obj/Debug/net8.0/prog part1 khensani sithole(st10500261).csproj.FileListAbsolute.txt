@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\GitHub\prog part1 khensani sithole(st10500261)\prog part1 khensani sithole(st10500261)\bin\Debug\net8.0\prog part1 khensani sithole(st10500261).exe
+C:\Users\Student\Documents\GitHub\prog part1 khensani sithole(st10500261)\prog part1 khensani sithole(st10500261)\bin\Debug\net8.0\prog part1 khensani sithole(st10500261).deps.json
+C:\Users\Student\Documents\GitHub\prog part1 khensani sithole(st10500261)\prog part1 khensani sithole(st10500261)\bin\Debug\net8.0\prog part1 khensani sithole(st10500261).runtimeconfig.json
+C:\Users\Student\Documents\GitHub\prog part1 khensani sithole(st10500261)\prog part1 khensani sithole(st10500261)\bin\Debug\net8.0\prog part1 khensani sithole(st10500261).dll
+C:\Users\Student\Documents\GitHub\prog part1 khensani sithole(st10500261)\prog part1 khensani sithole(st10500261)\bin\Debug\net8.0\prog part1 khensani sithole(st10500261).pdb
+C:\Users\Student\Documents\GitHub\prog part1 khensani sithole(st10500261)\prog part1 khensani sithole(st10500261)\obj\Debug\net8.0\prog part1 khensani sithole(st10500261).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\GitHub\prog part1 khensani sithole(st10500261)\prog part1 khensani sithole(st10500261)\obj\Debug\net8.0\prog part1 khensani sithole(st10500261).AssemblyInfoInputs.cache
+C:\Users\Student\Documents\GitHub\prog part1 khensani sithole(st10500261)\prog part1 khensani sithole(st10500261)\obj\Debug\net8.0\prog part1 khensani sithole(st10500261).AssemblyInfo.cs
+C:\Users\Student\Documents\GitHub\prog part1 khensani sithole(st10500261)\prog part1 khensani sithole(st10500261)\obj\Debug\net8.0\prog part1 khensani sithole(st10500261).csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\prog part1 khensani sithole(st10500261)\prog part1 khensani sithole(st10500261)\obj\Debug\net8.0\prog part1 khensani sithole(st10500261).dll
+C:\Users\Student\Documents\GitHub\prog part1 khensani sithole(st10500261)\prog part1 khensani sithole(st10500261)\obj\Debug\net8.0\refint\prog part1 khensani sithole(st10500261).dll
+C:\Users\Student\Documents\GitHub\prog part1 khensani sithole(st10500261)\prog part1 khensani sithole(st10500261)\obj\Debug\net8.0\prog part1 khensani sithole(st10500261).pdb
+C:\Users\Student\Documents\GitHub\prog part1 khensani sithole(st10500261)\prog part1 khensani sithole(st10500261)\obj\Debug\net8.0\prog part1 khensani sithole(st10500261).genruntimeconfig.cache
+C:\Users\Student\Documents\GitHub\prog part1 khensani sithole(st10500261)\prog part1 khensani sithole(st10500261)\obj\Debug\net8.0\ref\prog part1 khensani sithole(st10500261).dll
