@@ -12,7 +12,7 @@ namespace programming_part1
     {
         Console.Title = "Cybersecurity Awareness Bot";
             SoundPlayer player = new SoundPlayer("greeting.wav");
-            player.PlaySync();
+            player.Play();
             ConsoleManager.ShowLogo();
         ConsoleManager.ShowWelcome();
 
