@@ -13,7 +13,7 @@ namespace programming_part1
         {
             string question = userInput.ToLower().Trim();
 
-            // Greeting
+            
             if (question == "hello" ||
                 question == "hi" ||
                 question == "hey")
@@ -22,28 +22,28 @@ namespace programming_part1
                 return;
             }
 
-            // How are you?
+            
             if (question.Contains("how are you"))
             {
                 Console.WriteLine($"Bot: I'm doing great, {userName}! I'm ready to help you learn how to stay safe online.");
                 return;
             }
 
-            // Purpose
+            
             if (question.Contains("purpose") || question.Contains("what do you do"))
             {
                 Console.WriteLine("Bot: My purpose is to provide basic cybersecurity awareness and help users understand how to protect their information, accounts and devices online.");
                 return;
             }
 
-            // Exit
+            
             if (question == "exit" || question == "stop" || question == "quit")
             {
                 Console.WriteLine($"Bot: Goodbye, {userName}! Remember to stay safe online.");
                 return;
             }
 
-            // General cybersecurity question
+            
             if (question.Contains("cybersecurity") || question.Contains("cyber security"))
             {
                 Console.WriteLine("Bot: Cybersecurity is the practice of protecting computers, devices, networks, accounts and information from unauthorized access, attacks and other online threats.");
