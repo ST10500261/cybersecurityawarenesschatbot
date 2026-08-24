@@ -79,7 +79,7 @@ namespace programming_part1
             Console.WriteLine("        CYBERSECURITY TOPICS");
             Console.WriteLine("========================================");
 
-            Console.ForegroundColor = ConsoleColor.DarkBlue;
+            Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("1. Multi-factor authentication");
             Console.WriteLine("2. Social engineering");
             Console.WriteLine("3. Malware");
