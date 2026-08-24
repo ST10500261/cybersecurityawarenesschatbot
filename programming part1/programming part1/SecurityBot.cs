@@ -26,7 +26,7 @@ namespace programming_part1
                 ConsoleManager.ShowTopics();
 
                 
-                Console.Write("\nEnter a topic number or ask me a question: \");topic you want: ");
+                Console.Write("\nEnter a topic number or ask me a question:  ");
                 string topicChoice = Console.ReadLine()?.Trim() ?? "";
 
                 
