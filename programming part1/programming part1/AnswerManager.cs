@@ -14,9 +14,7 @@ namespace programming_part1
             string question = userInput.ToLower().Trim();
 
             
-            if (question == "hello" ||
-                question == "hi" ||
-                question == "hey")
+            if (question == "hello" ||question == "hi" ||question == "hey")
             {
                 Console.WriteLine($"Bot: Hello {userName}! Welcome back. What cybersecurity topic would you like to learn about?");
                 return;
