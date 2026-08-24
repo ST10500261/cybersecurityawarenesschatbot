@@ -26,7 +26,7 @@ namespace programming_part1
                 ConsoleManager.ShowTopics();
 
                 
-                Console.Write("\nEnter the number of the topic you want: ");
+                Console.Write("\nEnter a topic number or ask me a question: \");topic you want: ");
                 string topicChoice = Console.ReadLine()?.Trim() ?? "";
 
                 
@@ -35,12 +35,14 @@ namespace programming_part1
                     topicChoice.Equals("quit", StringComparison.OrdinalIgnoreCase))
                 {
                     Console.ForegroundColor = ConsoleColor.Cyan;
-                    Console.WriteLine($"\nBot: Goodbye, {userName}! Remember to stay safe online.");
+                    Console.WriteLine($"\nBot: Goodbye, {userName}!  Am glad i could  help !!Remember to stay safe online.");
                     Console.ResetColor();
                     break;
                 }
-
                 
+                
+
+
                 string selectedTopic = "";
 
                 switch (topicChoice)
