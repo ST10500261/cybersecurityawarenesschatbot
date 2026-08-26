@@ -17,20 +17,21 @@ namespace programming_part1
             Console.WriteLine("==============================================");
             Console.ForegroundColor = ConsoleColor.Magenta;
 
-            Console.WriteLine("==============================================");
-            Console.WriteLine("      ____  _   _ ____  _____ ____  ");
-            Console.WriteLine("     / ___|| | | | __ )| ____|  _ \\ ");
-            Console.WriteLine("   \\___ \\| | | |  _ \\|  _| | |_) |");
-            Console.WriteLine("      ___) | |_| | |_) | |___|  _ < ");
-            Console.WriteLine("     |____/ \\___/|____/|_____|_| \\_\\");
-            Console.WriteLine();
-            Console.WriteLine("              [CYBER SHIELD]");
-            Console.WriteLine("           CYBERSECURITY BOT");
-            Console.WriteLine("        >>> STAY SAFE ONLINE <<<");
-            Console.WriteLine("==============================================");
+            string logo = @"         _        _                  _               _            _      
+       / /\     /\_\               / /\            /\ \         /\ \    
+      / /  \   / / /         _    / /  \          /  \ \       /  \ \   
+     / / /\ \__\ \ \__      /\_\ / / /\ \        / /\ \ \     / /\ \ \  
+    / / /\ \___\\ \___\    / / // / /\ \ \      / / /\ \_\   / / /\ \_\ 
+    \ \ \ \/___/ \__  /   / / // / /\ \_\ \    / /_/_ \/_/  / / /_/ / / 
+     \ \ \       / / /   / / // / /\ \ \___\  / /____/\    / / /__\/ /  
+ _    \ \ \     / / /   / / // / /  \ \ \__/ / /\____\/   / / /_____/   
+/_/\__/ / /    / / /___/ / // / /____\_\ \  / / /______  / / /\ \ \     
+\ \/___/ /    / / /____\/ // / /__________\/ / /_______\/ / /  \ \ \    
+ \_____\/     \/_________/ \/_____________/\/__________/\/_/    \_\/    
+                                                                        ";
 
             Console.ResetColor();
-            Console.WriteLine();
+            Console.WriteLine(logo);
         }
 
 
