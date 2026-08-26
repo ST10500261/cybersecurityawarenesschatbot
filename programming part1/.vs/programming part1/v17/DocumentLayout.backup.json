@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{474DAA8D-7D50-42D7-87DF-99FAEE267DE9}|programming part1\\programming part1.csproj|solutionrelative:programming part1\\securitybot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{474DAA8D-7D50-42D7-87DF-99FAEE267DE9}|programming part1\\programming part1.csproj|c:\\users\\student\\documents\\github\\cybersecurityawarenesschatbot\\programming part1\\programming part1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{474DAA8D-7D50-42D7-87DF-99FAEE267DE9}|programming part1\\programming part1.csproj|solutionrelative:programming part1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{474DAA8D-7D50-42D7-87DF-99FAEE267DE9}|programming part1\\programming part1.csproj|c:\\users\\student\\documents\\github\\cybersecurityawarenesschatbot\\programming part1\\programming part1\\answermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474DAA8D-7D50-42D7-87DF-99FAEE267DE9}|programming part1\\programming part1.csproj|solutionrelative:programming part1\\answermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{474DAA8D-7D50-42D7-87DF-99FAEE267DE9}|programming part1\\programming part1.csproj|c:\\users\\student\\documents\\github\\cybersecurityawarenesschatbot\\programming part1\\programming part1\\consolemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{474DAA8D-7D50-42D7-87DF-99FAEE267DE9}|programming part1\\programming part1.csproj|solutionrelative:programming part1\\consolemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{474DAA8D-7D50-42D7-87DF-99FAEE267DE9}|programming part1\\programming part1.csproj|c:\\users\\student\\documents\\github\\cybersecurityawarenesschatbot\\programming part1\\programming part1\\answermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{474DAA8D-7D50-42D7-87DF-99FAEE267DE9}|programming part1\\programming part1.csproj|solutionrelative:programming part1\\answermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{474DAA8D-7D50-42D7-87DF-99FAEE267DE9}|programming part1\\programming part1.csproj|c:\\users\\student\\documents\\github\\cybersecurityawarenesschatbot\\programming part1\\programming part1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474DAA8D-7D50-42D7-87DF-99FAEE267DE9}|programming part1\\programming part1.csproj|solutionrelative:programming part1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,20 +40,20 @@
               "RelativeDocumentMoniker": "programming part1\\SecurityBot.cs",
               "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\cybersecurityawarenesschatbot\\programming part1\\programming part1\\SecurityBot.cs",
               "RelativeToolTip": "programming part1\\SecurityBot.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAswCoAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAJcCAAAAAAAAAAAkwCoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-17T09:21:30.911Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "AnswerManager.cs",
               "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\cybersecurityawarenesschatbot\\programming part1\\programming part1\\AnswerManager.cs",
               "RelativeDocumentMoniker": "programming part1\\AnswerManager.cs",
-              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\cybersecurityawarenesschatbot\\programming part1\\programming part1\\AnswerManager.cs",
-              "RelativeToolTip": "programming part1\\AnswerManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\cybersecurityawarenesschatbot\\programming part1\\programming part1\\AnswerManager.cs*",
+              "RelativeToolTip": "programming part1\\AnswerManager.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-17T09:20:50.88Z",
               "EditorCaption": ""
@@ -73,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\cybersecurityawarenesschatbot\\programming part1\\programming part1\\Program.cs",
               "RelativeDocumentMoniker": "programming part1\\Program.cs",
