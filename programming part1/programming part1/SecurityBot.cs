@@ -125,7 +125,7 @@ namespace programming_part1
                     Console.Write("\nYou: ");
                     string question = Console.ReadLine()?.Trim() ?? "";
 
-                    // Return to main topics
+                    
                     if (question.Equals("back", StringComparison.OrdinalIgnoreCase))
                     {
                         topicRunning = false;
