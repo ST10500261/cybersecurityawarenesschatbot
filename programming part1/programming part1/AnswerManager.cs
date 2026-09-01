@@ -48,7 +48,7 @@ namespace programming_part1
                 return;
             }
 
-            // Unknown question
+            
             Console.WriteLine("Bot: I'm not sure I understand that. Please choose one of the cybersecurity topics from the menu.");
         }
     }
