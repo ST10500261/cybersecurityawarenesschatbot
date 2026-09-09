@@ -32,6 +32,8 @@ namespace programming_part1
 
             Console.ResetColor();
             Console.WriteLine(logo);
+            Console.ForegroundColor = ConsoleColor.DarkBlue;
+            Console.ResetColor();
         }
 
 
