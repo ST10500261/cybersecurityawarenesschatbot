@@ -1,0 +1,6 @@
+﻿Build started at 3:51 PM...
+1>------ Build started: Project: CyberSecurityAwarenessChatBot, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>CyberSecurityAwarenessChatBot -> C:\Users\Student\Documents\GitHub\CyberSecurityChatBox\CyberSecurityChatBox\bin\Debug\net8.0\CyberSecurityAwarenessChatBot.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 3:51 PM and took 00.574 seconds ==========
