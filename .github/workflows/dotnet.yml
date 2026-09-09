@@ -21,8 +21,8 @@ jobs:
       with:
         dotnet-version: 8.0.x
     - name: Restore dependencies
-      run: dotnet restore programming part1/programming part1.sln
+      run: dotnet restore "programming part1/programming part1.sln"
     - name: Build
-      run: dotnet build --no-restore programming part1/programming part1.sln
+      run: dotnet build --no-restore "programming part1/programming part1.sln"
     - name: Test
-      run: dotnet test --no-build --verbosity normal programming part1/programming part1.sln
+      run: dotnet test --no-build --verbosity normal "programming part1/programming part1.sln"
