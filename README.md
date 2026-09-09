@@ -55,20 +55,6 @@ The chatbot provides information on topics including:
 * **Git**
 * **GitHub** for version control
 
-## Project Structure
-
-```text
-Cybersecurity-Awareness-Bot/
-│
-├── Program.cs
-├── SecurityBot.cs
-├── AnswerManager.cs
-├── ConsoleManager.cs
-├── greeting.wav
-├── README.md
-└── .gitignore
-```
-
 ### File Descriptions
 
 **Program.cs**
@@ -96,32 +82,6 @@ Contains the voice greeting played when the chatbot starts.
 6. Enter your name when prompted.
 7. Ask the chatbot a cybersecurity-related question.
 8. Enter the designated exit command when you want to close the application.
-
-## Example Interaction
-
-```text
-========================================
-       CYBERSECURITY AWARENESS BOT
-========================================
-
-Hello! Welcome to the Cybersecurity Awareness Bot.
-
-What is your name?
-> User
-
-Hello User! How can I help you today?
-
-Enter a cybersecurity topic:
-> phishing
-
-Bot:
-Phishing is a cyberattack in which criminals attempt
-to trick individuals into revealing sensitive information,
-such as passwords or account details.
-
-Remember: Always verify links and the sender before
-clicking on suspicious emails or messages.
-```
 
 ## Learning Outcomes
 
