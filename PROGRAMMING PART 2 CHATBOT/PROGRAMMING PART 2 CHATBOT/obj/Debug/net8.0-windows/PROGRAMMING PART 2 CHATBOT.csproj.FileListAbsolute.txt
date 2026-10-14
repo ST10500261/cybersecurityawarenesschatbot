@@ -1,0 +1,19 @@
+C:\Users\Student\OneDrive - ADvTECH Ltd\Documents\PROGRAMMING PART 2 CHATBOT\PROGRAMMING PART 2 CHATBOT\bin\Debug\net8.0-windows\PROGRAMMING PART 2 CHATBOT.exe
+C:\Users\Student\OneDrive - ADvTECH Ltd\Documents\PROGRAMMING PART 2 CHATBOT\PROGRAMMING PART 2 CHATBOT\bin\Debug\net8.0-windows\PROGRAMMING PART 2 CHATBOT.deps.json
+C:\Users\Student\OneDrive - ADvTECH Ltd\Documents\PROGRAMMING PART 2 CHATBOT\PROGRAMMING PART 2 CHATBOT\bin\Debug\net8.0-windows\PROGRAMMING PART 2 CHATBOT.runtimeconfig.json
+C:\Users\Student\OneDrive - ADvTECH Ltd\Documents\PROGRAMMING PART 2 CHATBOT\PROGRAMMING PART 2 CHATBOT\bin\Debug\net8.0-windows\PROGRAMMING PART 2 CHATBOT.dll
+C:\Users\Student\OneDrive - ADvTECH Ltd\Documents\PROGRAMMING PART 2 CHATBOT\PROGRAMMING PART 2 CHATBOT\bin\Debug\net8.0-windows\PROGRAMMING PART 2 CHATBOT.pdb
+C:\Users\Student\OneDrive - ADvTECH Ltd\Documents\PROGRAMMING PART 2 CHATBOT\PROGRAMMING PART 2 CHATBOT\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Student\OneDrive - ADvTECH Ltd\Documents\PROGRAMMING PART 2 CHATBOT\PROGRAMMING PART 2 CHATBOT\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Student\OneDrive - ADvTECH Ltd\Documents\PROGRAMMING PART 2 CHATBOT\PROGRAMMING PART 2 CHATBOT\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Student\OneDrive - ADvTECH Ltd\Documents\PROGRAMMING PART 2 CHATBOT\PROGRAMMING PART 2 CHATBOT\obj\Debug\net8.0-windows\PROGRAMMING PART 2 CHATBOT_MarkupCompile.cache
+C:\Users\Student\OneDrive - ADvTECH Ltd\Documents\PROGRAMMING PART 2 CHATBOT\PROGRAMMING PART 2 CHATBOT\obj\Debug\net8.0-windows\PROGRAMMING PART 2 CHATBOT.g.resources
+C:\Users\Student\OneDrive - ADvTECH Ltd\Documents\PROGRAMMING PART 2 CHATBOT\PROGRAMMING PART 2 CHATBOT\obj\Debug\net8.0-windows\PROGRAMMING PART 2 CHATBOT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\OneDrive - ADvTECH Ltd\Documents\PROGRAMMING PART 2 CHATBOT\PROGRAMMING PART 2 CHATBOT\obj\Debug\net8.0-windows\PROGRAMMING PART 2 CHATBOT.AssemblyInfoInputs.cache
+C:\Users\Student\OneDrive - ADvTECH Ltd\Documents\PROGRAMMING PART 2 CHATBOT\PROGRAMMING PART 2 CHATBOT\obj\Debug\net8.0-windows\PROGRAMMING PART 2 CHATBOT.AssemblyInfo.cs
+C:\Users\Student\OneDrive - ADvTECH Ltd\Documents\PROGRAMMING PART 2 CHATBOT\PROGRAMMING PART 2 CHATBOT\obj\Debug\net8.0-windows\PROGRAMMING PART 2 CHATBOT.csproj.CoreCompileInputs.cache
+C:\Users\Student\OneDrive - ADvTECH Ltd\Documents\PROGRAMMING PART 2 CHATBOT\PROGRAMMING PART 2 CHATBOT\obj\Debug\net8.0-windows\PROGRAMMING PART 2 CHATBOT.dll
+C:\Users\Student\OneDrive - ADvTECH Ltd\Documents\PROGRAMMING PART 2 CHATBOT\PROGRAMMING PART 2 CHATBOT\obj\Debug\net8.0-windows\refint\PROGRAMMING PART 2 CHATBOT.dll
+C:\Users\Student\OneDrive - ADvTECH Ltd\Documents\PROGRAMMING PART 2 CHATBOT\PROGRAMMING PART 2 CHATBOT\obj\Debug\net8.0-windows\PROGRAMMING PART 2 CHATBOT.pdb
+C:\Users\Student\OneDrive - ADvTECH Ltd\Documents\PROGRAMMING PART 2 CHATBOT\PROGRAMMING PART 2 CHATBOT\obj\Debug\net8.0-windows\PROGRAMMING PART 2 CHATBOT.genruntimeconfig.cache
+C:\Users\Student\OneDrive - ADvTECH Ltd\Documents\PROGRAMMING PART 2 CHATBOT\PROGRAMMING PART 2 CHATBOT\obj\Debug\net8.0-windows\ref\PROGRAMMING PART 2 CHATBOT.dll
