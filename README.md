@@ -1,35 +1,32 @@
-# Cybersecurity Awareness Bot
+Cyber Shield – Cybersecurity Awareness Chatbot
 
-## Project Overview
+Project Overview
 
-The Cybersecurity Awareness Bot is a C# console-based chatbot designed to educate users about fundamental cybersecurity principles and online safety practices.
+Cyber Shield is a cybersecurity awareness chatbot developed using C# and .NET. The project was developed in two parts, starting with a console-based application and progressing to a graphical user interface (GUI) using Windows Presentation Foundation (WPF).
 
-The bot provides clear, accessible information about common cybersecurity threats and offers practical guidance to help users protect themselves online.
+The chatbot educates users about common cybersecurity threats and provides practical advice on how to stay safe online.
 
-This project was developed to demonstrate the application of C# programming concepts, including user interaction, classes, methods, conditional statements, input validation, and other software development techniques.
+Project Purpose
 
-## Purpose
+The purpose of Cyber Shield is to help users understand cybersecurity risks and learn how to protect their personal information, accounts and devices.
 
-The purpose of the Cybersecurity Awareness Bot is to help users understand common cybersecurity risks and learn how to protect their personal information, accounts, and devices.
+The project also demonstrates C# programming concepts and the development of interactive applications.
 
-The bot is designed to be accessible to users with varying levels of cybersecurity knowledge, including those who are new to the subject.
+Features
 
-## Features
+- Personalised greetings using the user's name
+- Voice greeting using a WAV audio file
+- 14 cybersecurity awareness topics
+- Keyword recognition for cybersecurity-related questions
+- Automated responses to user messages
+- Random cybersecurity safety tips
+- Interactive graphical user interface
+- Chat history displayed in a separate window
+- Clear Chat functionality
+- Keyboard support for sending messages
+- Input validation and basic error handling
 
-* Provides a welcoming greeting when the application starts
-* Plays a voice greeting using a WAV audio file
-* Displays a cybersecurity-themed ASCII logo
-* Supports personalised user interaction
-* Responds to cybersecurity-related questions
-* Provides information on a range of cybersecurity topics
-* Uses console colours to enhance the user experience
-* Validates and handles invalid or empty input
-* Allows users to exit the chatbot
-* Delivers practical cybersecurity awareness tips
-
-## Cybersecurity Topics
-
-The chatbot provides information on topics including:
+Cybersecurity Topics
 
 1. Multi-Factor Authentication
 2. Social Engineering
@@ -46,80 +43,77 @@ The chatbot provides information on topics including:
 13. Backups
 14. Identity Theft
 
-## Technologies Used
+Technologies Used
 
-* **C#**
-* **.NET Console Application**
-* **Visual Studio**
-* **System.Media** for WAV audio playback
-* **Git**
-* **GitHub** for version control
+- C# – application logic and chatbot functionality
+- .NET – application development framework
+- WPF – graphical user interface
+- XAML – interface design and styling
+- Visual Studio – development environment
+- System.Media – WAV greeting audio playback
+- Git and GitHub – version control and project hosting
 
-### File Descriptions
+Project Structure
 
-**Program.cs**
-The main entry point of the application. It launches the chatbot and plays the greeting audio.
+Part 1: Console Application
 
-**SecurityBot.cs**
-Manages the primary chatbot conversation and user interaction.
+The first part introduced the chatbot through a console-based interface.
 
-**AnswerManager.cs**
-Stores the cybersecurity topics, questions, and responses provided by the chatbot.
+- "Program.cs" – starts the application and plays the greeting sound.
+- "SecurityBot.cs" – manages the conversation and user interaction.
+- "AnswerManager.cs" – manages cybersecurity questions and responses.
+- "ConsoleManager.cs" – displays the ASCII logo, welcome message and console formatting.
+- "greeting.wav" – contains the voice greeting.
 
-**ConsoleManager.cs**
-Manages the display of the logo, welcome message, topics, console colours, and other interface elements.
+Part 2: WPF GUI Application
 
-**greeting.wav**
-Contains the voice greeting played when the chatbot starts.
+The second part improved the chatbot by introducing a graphical interface.
 
-## How to Run the Project
+- "MainWindow.xaml" – defines the layout, colours, topic buttons, chat area and action buttons.
+- "MainWindow.xaml.cs" – handles messages, keyword recognition, cybersecurity responses, greeting audio and button events.
+- "ChatMessage" class – stores message details and controls how messages appear in the chat interface.
+- "greeting.wav" – provides the welcome sound when the application starts.
+
+How to Run the Project
 
 1. Clone or download the repository from GitHub.
-2. Open the project in **Visual Studio**.
-3. Confirm that the `greeting.wav` file is included in the project.
-4. Build the solution.
-5. Run the application.
-6. Enter your name when prompted.
-7. Ask the chatbot a cybersecurity-related question.
-8. Enter the designated exit command when you want to close the application.
+2. Open the appropriate solution or project file in Visual Studio.
+3. Ensure the required .NET components are installed.
+4. Confirm that "greeting.wav" is available in the application's output directory.
+5. Build the solution and check for errors.
+6. Run the application.
+7. Enter your name when prompted.
+8. Select a cybersecurity topic or type a question.
+9. Use Chat History to review the conversation or Clear Chat to clear the displayed messages.
 
-## Learning Outcomes
+Learning Outcomes
 
 This project demonstrates the use of:
 
-* Variables
-* Strings
-* Methods
-* Classes and objects
-* Conditional statements
-* Loops
-* User input
-* Input validation
-* Dictionaries
-* Randomisation
-* File handling
-* Audio playback
-* Console formatting
-* Git and GitHub version control
+- Variables, strings and methods
+- Classes and objects
+- Dictionaries and arrays
+- Conditional statements and loops
+- User input and input validation
+- Keyword recognition
+- Event handling
+- GUI development using WPF and XAML
+- Collections and chat history management
+- Audio playback
+- Git and GitHub version control
 
-## Version Control
+Version Control
 
-GitHub was used to manage the development and version history of the project.
+Git and GitHub were used to manage the project's source code and development history.
 
-Development commits documented changes including:
+Development improvements included the initial console application, cybersecurity responses, voice greeting, interface design, topic buttons, keyword recognition, personalised interaction and chat history.
 
-* Initial project setup
-* Chatbot implementation
-* Addition of cybersecurity topics
-* Improvements to chatbot responses
-* Addition of the ASCII logo
-* Implementation of console colours
-* Addition of the voice greeting
-* Improvements to user interaction
-* Error correction and application testing
+Cybersecurity Awareness
 
-## Cybersecurity Awareness
+The information provided by Cyber Shield is intended for educational and awareness purposes. The chatbot aims to improve users' understanding of common cybersecurity threats and encourage safer online behaviour.
 
-The information provided by this chatbot is intended for **educational and awareness purposes**. Its objective is to encourage safer online behaviour and improve users’ understanding of common cybersecurity threats.
+Conclusion
 
+Cyber Shield demonstrates how a basic console chatbot can be developed into an interactive desktop application. Through both parts, I gained practical experience in C# programming, user interaction, graphical interface development and cybersecurity awareness.
 
+This project was developed as part of my programming coursework.
